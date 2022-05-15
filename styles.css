@@ -1,0 +1,15 @@
+:root {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    top: 0;
+    background-color: darkred;
+    color: #2d26aff4;
+    line-height: 2.5;
+    column-gap: 50;
+    font-weight: 200;
+    font-family: 'Arimo', sans-serif;
+}
+    
